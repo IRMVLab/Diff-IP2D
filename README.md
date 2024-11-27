@@ -9,7 +9,7 @@ This is the official implementation for our paper:
 <sup>1</sup>SJTU&emsp;&emsp;<sup>2</sup>NUDT&emsp;&emsp;<sup>*</sup>Corresponding author
 
 
-Diff-IP2D is the first work to jointly forecast future hand trajectories and object affordances by the devised denoising diffusion probabilistic model with only 2D egocentric videos as input. It provides a foundation generative paradigm in the field of HOI prediction.
+Diff-IP2D is the first work using the devised denoising diffusion probabilistic model to jointly forecast future hand trajectories and object affordances with only 2D egocentric videos as input. It provides a foundation generative paradigm in the field of HOI prediction.
 
 <img src="docs/pred.gif" alt="pred" width="60%" />
 
