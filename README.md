@@ -17,7 +17,7 @@ white: ours, blue: baseline, red: GT. Diff-IP2D generates plausible future hand 
 
 <img src="docs/motivation.png" alt="pred" width="100%" />
 
-The hand waypoints from ground-truth labels and HOI prediction approaches are connected by blue and white dashed lines respectively. **There is a lack of backward constraints in AR-based USST, leading to a shorter predicted trajectory (almost curled up into a point) and larger accumulated displacement errors. In contrast, our Diff-IP2D with iter-NAR paradigm is potentially guided by final HOI states, and thus predicts more accurate hand trajectories following both spatial causality and temporal causality.**
+A cup example :coffee:. The hand waypoints from ground-truth labels and HOI prediction approaches are connected by blue and white dashed lines respectively. **There is a lack of backward constraints in AR-based USST, leading to a shorter predicted trajectory (almost curled up into a point) and larger accumulated displacement errors. In contrast, our Diff-IP2D with iter-NAR paradigm is potentially guided by final HOI states, and thus predicts more accurate hand trajectories following both spatial causality and temporal causality.**
 
 
 If you find our work helpful to your research, please cite our paper as
