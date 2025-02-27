@@ -15,6 +15,11 @@ Diff-IP2D is the first work using the devised denoising diffusion probabilistic 
 
 white: ours, blue: baseline, red: GT. Diff-IP2D generates plausible future hand waypoints and final hand positions (even if there is a large error in the early stage) with bidirectional constraints.
 
+<img src="docs/motivation.png" alt="pred" width="60%" />
+
+The hand waypoints from ground-truth labels and HOI prediction approaches are connected by blue and white dashed lines respectively. There is a lack of backward constraints in AR-based USST, leading to a shorter predicted trajectory (almost curled up into a point) and larger accumulated displacement errors. In contrast, our Diff-IP2D with iter-NAR paradigm is potentially guided by final HOI states, and thus predicts more accurate hand trajectories following both spatial causality and temporal causality.
+
+
 If you find our work helpful to your research, please cite our paper as
 ```
 @article{ma2024diffip2d,
