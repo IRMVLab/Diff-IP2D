@@ -152,12 +152,12 @@ bash val_affordance.sh
 
 We sincerely appreciate the fantastic pioneering works that provide codebases and datasets for this work. Please also cite them if you use the relevant code and data.
 
-[1] Shaowei Liu, Subarna Tripathi, Somdeb Majumdar, and Xiaolong Wang. Joint hand motion and interaction hotspots prediction from egocentric videos. In CVPR, pages 3282–3292, 2022. [Paper]() [Code]()
+[1] Shaowei Liu, Subarna Tripathi, Somdeb Majumdar, and Xiaolong Wang. Joint hand motion and interaction hotspots prediction from egocentric videos. In CVPR, pages 3282–3292, 2022. [Paper](https://arxiv.org/abs/2204.01696)
 
-[2] Dima Damen, Hazel Doughty, Giovanni Maria Farinella, Antonino Furnari, Evangelos Kazakos, Jian Ma, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, et al. Rescaling egocentric vision: Collection, pipeline and challenges for epic-kitchens-100. IJCV, pages 1–23, 2022. [Paper]() [Code]()
+[2] Dima Damen, Hazel Doughty, Giovanni Maria Farinella, Antonino Furnari, Evangelos Kazakos, Jian Ma, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, et al. Rescaling egocentric vision: Collection, pipeline and challenges for epic-kitchens-100. IJCV, pages 1–23, 2022. [Paper](https://arxiv.org/abs/2006.13256)
 
-[3] Antonino Furnari and Giovanni Maria Farinella. Rolling-unrolling lstms for action anticipation from first-person video. IEEE TPAMI, 43(11):4021–4036, 2020. [Paper]() [Code]()
+[3] Antonino Furnari and Giovanni Maria Farinella. Rolling-unrolling lstms for action anticipation from first-person video. IEEE TPAMI, 43(11):4021–4036, 2020. [Paper](https://arxiv.org/abs/2005.02190)
 
-[4] Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, and Lingpeng Kong. Diffuseq: Sequence to sequence text generation with diffusion models. In ICLR, 2023. [Paper]() [Code]()
+[4] Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, and Lingpeng Kong. Diffuseq: Sequence to sequence text generation with diffusion models. In ICLR, 2023. [Paper](https://arxiv.org/abs/2210.08933)
 
-[5] Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, and Yu Kong. Uncertainty-aware state space transformer for egocentric 3d hand trajectory forecasting. In ICCV, pages 13702–13711, 2023. [Paper]() [Code]()
+[5] Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, and Yu Kong. Uncertainty-aware state space transformer for egocentric 3d hand trajectory forecasting. In ICCV, pages 13702–13711, 2023. [Paper](https://arxiv.org/abs/2307.08243)
