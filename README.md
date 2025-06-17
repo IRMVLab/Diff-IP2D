@@ -1,6 +1,6 @@
-# Diff-IP2D: Diffusion Models for Joint HOI Prediction
+# Diff-IP2D: Diffusion Models for 2D HOI Prediction
 
-This is the official implementation for our paper accepted by IROS 2025: 
+This is the official implementation for our paper accepted by **IROS 2025**: 
 
 [Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos](https://arxiv.org/abs/2405.04370).
 
